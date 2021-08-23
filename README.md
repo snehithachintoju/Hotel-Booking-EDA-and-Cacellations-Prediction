@@ -1,2 +1,2 @@
 # Hotel-Booking-EDA-and-Cacellations-Prediction
-Performed Exploratory Data Analysis(EDA) on Hotel Booking Data and identified key features effectingthe cancellation of bookings.Cleaned the data and applied various techniques like Feature Engineering, Data imputation and Pre-Processing to improve the efficiency of the model.Predicted Cancellations of Hotel Bookings with 0.87 accuracy using Random Forest model
+Performed Exploratory Data Analysis(EDA) on Hotel Booking Data and identified key features effecting the cancellation of bookings.Cleaned the data and applied various techniques like Feature Engineering, Data imputation and Pre-Processing to improve the efficiency of the model.Predicted Cancellations of Hotel Bookings with 0.87 accuracy using Random Forest model
